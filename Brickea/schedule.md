@@ -30,8 +30,8 @@ Schedule for every week magister
 
 2020 2.3
 
-* Basic Linear Algebra
-* Evaluation method - Accuracy, Precision, Recall, ROC, AUC
+* ~~Basic Linear Algebra~~
+* ~~Evaluation method - Accuracy, Precision, Recall, ROC, AUC~~
 ---
 
 2020 2.4
@@ -47,16 +47,16 @@ Schedule for every week magister
 
 2020 2.3
 
-* Linear Regression with one variable and mutiple variables
-* Logistic Regression
-* Normailization
-* Regularization
-* Cross-validation
-* Neural Network Representation
-* Support Vector Machine
-* K-means Cluster
-* Dimensionality Reduction - PCA
-* Feature selection — Correlation and P-value
+* ~~Linear Regression with one variable and mutiple variables~~
+* ~~Logistic Regression~~
+* ~~Normailization~~
+* ~~Regularization~~
+* ~~Cross-validation~~
+* ~~Neural Network Representation~~
+* ~~Support Vector Machine~~
+* ~~K-means Cluster~~
+* ~~Dimensionality Reduction - PCA~~
+* ~~Feature selection — Correlation and P-value~~
 ---
 
 2020 2.4
