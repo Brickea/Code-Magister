@@ -36,10 +36,12 @@ Schedule for every week magister
 
 2020 2.4
 
-* NBB_Hypothesis_Testing
-* NBB_Normality_Testing
-* NBB_Probability Distributions
-* NBB_Statistics_and_Probability
+* ~~NBB_Hypothesis_Testing~~
+* ~~NBB_Normality_Testing~~
+* ~~NBB_Probability Distributions~~
+* ~~NBB_Statistics_and_Probability~~
+
+2020 2.7
 ---
 
 
@@ -61,8 +63,17 @@ Schedule for every week magister
 
 2020 2.4
 
-* Tree-base models
-* Deep Learning
+* ~~Tree-base models~~
+* ~~Basic Neural Network Structure~~
+
+
+---
+
+2020 2.7
+
 * Reinforcement Learning
 * Q-Learning
 * Policy-Learning
+* Do three kaggle practice
+
+## Week 2 2020 2.10 - 2.17  ML magister
