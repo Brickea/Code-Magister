@@ -2,7 +2,7 @@
 
 Schedule for every week magister
 
-## Week 1 2020 2.3 - 2.10  ML magister
+## Week 1 + 2 2020 2.3 - 2.17  ML magister
 
 在开始一项任务之前，我们还是先确认一下学习目标。
 
@@ -41,7 +41,40 @@ Schedule for every week magister
 * ~~NBB_Probability Distributions~~
 * ~~NBB_Statistics_and_Probability~~
 
-2020 2.7
+---
+
+2020 2.10
+
+* ~~Hypothese Testing~~
+* ~~Linear Regression~~
+* ~~Logistic Regression~~
+* ~~Bootstraping~~
+* ~~Bagging~~
+* ~~Boosting~~
+* ~~Stacking~~
+* ~~Parameteric Approach~~
+* ~~Non-Parameteric Approach~~
+* ~~Lasso Regression~~
+* ~~Ridge Regression~~
+* ~~AUC / ROC~~
+
+---
+
+2020 2.11
+
+* ~~Naive Bayes~~
+* ~~MLE~~
+* ~~Bayes Estimation~~
+
+---
+
+2020 2.12
+
+* MOM
+* SVM
+* KNN
+* K-means
+
 ---
 
 
@@ -66,14 +99,13 @@ Schedule for every week magister
 * ~~Tree-base models~~
 * ~~Basic Neural Network Structure~~
 
-
 ---
 
-2020 2.7
+2020 2.12
 
 * Reinforcement Learning
 * Q-Learning
+* Deep Q-Learning
 * Policy-Learning
-* Do three kaggle practice
+* Do three OpenAI practice
 
-## Week 2 2020 2.10 - 2.17  ML magister
