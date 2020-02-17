@@ -1,8 +1,14 @@
 # Brickea
 
+- [Brickea](#brickea)
+  - [Week 1 + 2 + 3 2020 2.3 - 2.24  ML magister](#week-1--2--3-2020-23---224-ml-magister)
+    - [Statistic](#statistic)
+    - [Machine Learning](#machine-learning)
+  - [Interview](#interview)
+
 Schedule for every week magister
 
-## Week 1 + 2 2020 2.3 - 2.17  ML magister
+## Week 1 + 2 + 3 2020 2.3 - 2.24  ML magister
 
 在开始一项任务之前，我们还是先确认一下学习目标。
 
@@ -32,6 +38,7 @@ Schedule for every week magister
 
 * ~~Basic Linear Algebra~~
 * ~~Evaluation method - Accuracy, Precision, Recall, ROC, AUC~~
+
 ---
 
 2020 2.4
@@ -71,12 +78,11 @@ Schedule for every week magister
 2020 2.12
 
 * MOM
-* SVM
-* KNN
-* K-means
+* ~~SVM~~
+* ~~KNN~~
+* ~~K-means~~
 
 ---
-
 
 ### Machine Learning
 
@@ -92,6 +98,7 @@ Schedule for every week magister
 * ~~K-means Cluster~~
 * ~~Dimensionality Reduction - PCA~~
 * ~~Feature selection — Correlation and P-value~~
+
 ---
 
 2020 2.4
@@ -103,9 +110,27 @@ Schedule for every week magister
 
 2020 2.12
 
-* Reinforcement Learning
-* Q-Learning
+* ~~Reinforcement Learning~~
+* ~~Q-Learning~~
+* ~~Do one OpenAI practice~~
+
+---
+
+2020 2.17
+
 * Deep Q-Learning
 * Policy-Learning
-* Do three OpenAI practice
 
+## Interview
+
+* Data Structure
+  * String
+  * Linked List
+  * Binary Tree
+  * Huffman Compression
+  * Queue
+  * Heap
+  * Stack
+  * Set
+  * Map
+  * Graph
