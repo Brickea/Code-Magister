@@ -77,7 +77,7 @@ Schedule for every week magister
 
 2020 2.12
 
-* MOM
+* ~~MOM~~
 * ~~SVM~~
 * ~~KNN~~
 * ~~K-means~~
@@ -123,10 +123,31 @@ Schedule for every week magister
 
 ## Interview
 
+* Python
+  * Class
+    * ~~Private Method and Variables~~
+    * ~~Inheritance and polymorphism~~
+    * ~~classmethod~~
+    * ~~staticmethod~~
+
+* Java
+  * ~~StringBuilder~~
+  * ~~StringBuffer~~
+
+* Golang
+
 * Data Structure
-  * String
+  * ~~String~~
   * Linked List
+    * ~~单链表，双链表反转~~
+    * ~~快慢指针判断链表是否成环~~
+    * ~~Dummy Node在删除节点的代码简化作用~~
   * Binary Tree
+    * ~~深度优先遍历~~
+      * ~~pre-order~~
+      * ~~in-order~~
+      * ~~post-order~~
+    * ~~广度优先遍历~~
   * Huffman Compression
   * Queue
   * Heap
@@ -134,3 +155,6 @@ Schedule for every week magister
   * Set
   * Map
   * Graph
+* Python
+  * Unit Testing
+  * ~~OOD~~
