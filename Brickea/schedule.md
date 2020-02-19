@@ -82,6 +82,11 @@ Schedule for every week magister
 * ~~KNN~~
 * ~~K-means~~
 
+2020 2. 18
+
+* ~~隐式马克罗夫~~
+  * 文本翻译
+
 ---
 
 ### Machine Learning
@@ -116,7 +121,7 @@ Schedule for every week magister
 
 ---
 
-2020 2.17
+2020 2.18
 
 * Deep Q-Learning
 * Policy-Learning
@@ -129,6 +134,9 @@ Schedule for every week magister
     * ~~Inheritance and polymorphism~~
     * ~~classmethod~~
     * ~~staticmethod~~
+  * Unit Testing
+  * ~~OOD~~
+  * ~~deque~~
 
 * Java
   * ~~StringBuilder~~
@@ -148,13 +156,15 @@ Schedule for every week magister
       * ~~in-order~~
       * ~~post-order~~
     * ~~广度优先遍历~~
+    * ~~BST~~
+      * ~~中序遍历为从小到大的有序数组~~
   * Huffman Compression
+    * ~~与搜索二叉树的联系~~
   * Queue
+    * ~~Priority Queue - 优先队列~~
   * Heap
-  * Stack
-  * Set
-  * Map
-  * Graph
-* Python
-  * Unit Testing
-  * ~~OOD~~
+    * ~~二叉堆~~
+  * ~~Stack~~
+  * ~~Set~~
+  * ~~Map~~
+  * ~~Graph~~
