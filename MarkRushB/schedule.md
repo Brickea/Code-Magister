@@ -28,3 +28,10 @@
 - 10 Classical Sort 
   - ~~Merge Sort~~
   - ~~Quick Sort~~
+- Heap
+  - 二叉堆
+  - 堆排序
+- Tree 
+  - 二叉树
+- 二叉堆和二叉树的区别
+- 实现方法
