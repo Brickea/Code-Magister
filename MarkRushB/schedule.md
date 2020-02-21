@@ -1,5 +1,5 @@
 # Mark's Schedule
-## Week 1
+## Stage 1
 - 2020.02.03-2020.02.10 
 ### Data Structure & Algorithm
 - Union Find (Completed 20200203)
@@ -16,3 +16,22 @@
   - ~~Use Array to implement~~
 - Queue
   - To be Continue
+## Stage 2
+- 2020.02.20-2020.02.23
+### Data Science
+- HMM
+  - [原理](https://github.com/MarkRushB/DailyCoding/blob/master/DataScience.md#markov-chain-mc)
+  - 隐式马尔可夫链的应用(翻译器)
+
+### Algorithm
+- 逆波兰表达式（中缀转后缀）
+- 10 Classical Sort 
+  - ~~Merge Sort~~
+  - ~~Quick Sort~~
+- Heap
+  - 二叉堆
+  - 堆排序
+- Tree 
+  - 二叉树
+- 二叉堆和二叉树的区别
+- 实现方法
