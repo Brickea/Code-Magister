@@ -1,14 +1,17 @@
 # Brickea
 
 - [Brickea](#brickea)
-  - [Week 1 + 2 + 3 2020 2.3 - 2.24  ML magister](#week-1--2--3-2020-23---224-ml-magister)
-    - [Statistic](#statistic)
+  - [Week 4 2020 2.21 - 2.27](#week-4-2020-221---227)
+    - [Statistical Learning](#statistical-learning)
     - [Machine Learning](#machine-learning)
-  - [Interview](#interview)
+    - [Reinforcement Learning](#reinforcement-learning)
+    - [Google Compititation](#google-compititation)
+    - [Interview Preparation](#interview-preparation)
+  - [Week 1 + 2 + 3 2020 2.3 - 2.20  ML magister](#week-1--2--3-2020-23---220-ml-magister)
+    - [Statistic](#statistic)
+    - [Machine Learning](#machine-learning-1)
 
 Schedule for every week magister
-
-## Week 1 + 2 + 3 2020 2.3 - 2.24  ML magister
 
 在开始一项任务之前，我们还是先确认一下学习目标。
 
@@ -31,6 +34,48 @@ Schedule for every week magister
 * 为了解决一个实际问题——理解机器学习的基本内容，多看相关的案例，然后模仿解决。
 * 工作——直接对标算法工程师的话，技术和理论都得扎实，同时要匹配市场需求。
 * 科研——理论优先，技术保证实现即可，以能够做实验比对实验结果为目标。
+
+## Week 4 2020 2.21 - 2.27
+
+![](res/Milestones&#32;2.21&#32;-&#32;2.27.jpg)
+
+### Statistical Learning
+
+* Linear Regression
+* Classification
+* Cross-validation
+* Variable Selection
+* Non-linear Regression
+* Tree-based model
+* SVM
+* PCA
+
+### Machine Learning
+
+* ML Crash
+* Tensorflow Crash
+* Text Mining and NLP
+* Google Data pre-processing and Feature Selection
+
+### Reinforcement Learning
+
+* Policy Learning
+* Deep Q-learning
+* Assignment 2 - Train to play Doom
+
+### Google Compititation
+
+* Data Exploration
+
+### [Interview Preparation](Interview.md)
+
+* Python
+* Java
+* Golang
+* Data Structure
+* Algorithm
+
+## Week 1 + 2 + 3 2020 2.3 - 2.20  ML magister
 
 ### Statistic 
 
@@ -126,45 +171,3 @@ Schedule for every week magister
 * Deep Q-Learning
 * Policy-Learning
 
-## Interview
-
-* Python
-  * Class
-    * ~~Private Method and Variables~~
-    * ~~Inheritance and polymorphism~~
-    * ~~classmethod~~
-    * ~~staticmethod~~
-  * Unit Testing
-  * ~~OOD~~
-  * ~~deque~~
-
-* Java
-  * ~~StringBuilder~~
-  * ~~StringBuffer~~
-
-* Golang
-
-* Data Structure
-  * ~~String~~
-  * Linked List
-    * ~~单链表，双链表反转~~
-    * ~~快慢指针判断链表是否成环~~
-    * ~~Dummy Node在删除节点的代码简化作用~~
-  * Binary Tree
-    * ~~深度优先遍历~~
-      * ~~pre-order~~
-      * ~~in-order~~
-      * ~~post-order~~
-    * ~~广度优先遍历~~
-    * ~~BST~~
-      * ~~中序遍历为从小到大的有序数组~~
-  * Huffman Compression
-    * ~~与搜索二叉树的联系~~
-  * Queue
-    * ~~Priority Queue - 优先队列~~
-  * Heap
-    * ~~二叉堆~~
-  * ~~Stack~~
-  * ~~Set~~
-  * ~~Map~~
-  * ~~Graph~~
