@@ -1,12 +1,17 @@
 # Brickea
 
 - [Brickea](#brickea)
+  - [Skill Tree (Last update 2020.2.29)](#skill-tree-last-update-2020229)
+  - [Week 5 2020 2.29 - 3.7](#week-5-2020-229---37)
+    - [Interview Preparation](#interview-preparation)
+    - [Data Analyst Related](#data-analyst-related)
+    - [Assignment and Exam Preparation](#assignment-and-exam-preparation)
   - [Week 4 2020 2.21 - 2.27](#week-4-2020-221---227)
     - [Statistical Learning](#statistical-learning)
     - [Machine Learning](#machine-learning)
     - [Reinforcement Learning](#reinforcement-learning)
     - [Google Compititation](#google-compititation)
-    - [Interview Preparation](#interview-preparation)
+    - [Interview Preparation](#interview-preparation-1)
   - [Week 1 + 2 + 3 2020 2.3 - 2.20  ML magister](#week-1--2--3-2020-23---220-ml-magister)
     - [Statistic](#statistic)
     - [Machine Learning](#machine-learning-1)
@@ -34,6 +39,43 @@ Schedule for every week magister
 * 为了解决一个实际问题——理解机器学习的基本内容，多看相关的案例，然后模仿解决。
 * 工作——直接对标算法工程师的话，技术和理论都得扎实，同时要匹配市场需求。
 * 科研——理论优先，技术保证实现即可，以能够做实验比对实验结果为目标。
+
+## Skill Tree (Last update 2020.2.29)
+
+![](res/Skill&#32;Tree.png)
+
+## Week 5 2020 2.29 - 3.7
+
+### Interview Preparation
+
+* Bytedance Basic Algorithm Practice
+  * [Link](https://leetcode.com/list/x7kpxvli/)
+  * Current 0/42
+* Review Materials in Resume
+  * AI Workshop with EM Lyon
+    * Deep Learning
+    * Reinforcement Learning
+  * Beijing PM2.5 Prediction
+    * MOM
+    * MLE
+    * RandomForest
+  * NEU Indoor Navigation
+    * A* Algorithm
+    * Database Design
+    * SQL
+
+### Data Analyst Related
+
+* Current
+
+![](res/DataAnalystPractice.png)
+
+![](res/DataAnalystFullStack.png)
+
+### Assignment and Exam Preparation
+
+* Reinforcement Learning based on gym
+* Reinforcement Theories
 
 ## Week 4 2020 2.21 - 2.27
 
