@@ -50,7 +50,10 @@ Schedule for every week magister
 
 * Bytedance Basic Algorithm Practice
   * [Link](https://leetcode.com/list/x7kpxvli/)
-  * Current 0/42
+  * Current
+    * 2020.2.29 2/42 (60 mins)
+    * 2020.3.1 3/42 (60 mins)
+    * 2020.3.2 5/42 (60 mins)
 * Review Materials in Resume
   * AI Workshop with EM Lyon
     * Deep Learning
@@ -76,6 +79,15 @@ Schedule for every week magister
 
 * Reinforcement Learning based on gym
 * Reinforcement Theories
+* SQL Practice
+  * [Link](http://www.sql-ex.ru/learn_exercises.php#answer_ref)
+  * 2020.2.29: 10/151 (60 mins)
+    * UNION
+    * INTERSECT
+    * EXCEPT
+  * 2020.3.1: 20/151 (35 mins)
+    * [use multiply table in query](http://www.sql-tutorial.ru/en/book_using_multiple_tables_in_query.html)
+    * [SOME/ANY/ALL](http://www.sql-tutorial.ru/en/book_using_any_all_keywords_with_comparison_predicates.html)
 
 ## Week 4 2020 2.21 - 2.27
 
