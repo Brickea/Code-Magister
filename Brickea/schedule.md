@@ -53,7 +53,9 @@ Schedule for every week magister
   * Current
     * 2020.2.29 2/42 (60 mins)
     * 2020.3.1 3/42 (60 mins)
-    * 2020.3.2 5/42 (60 mins)
+    * 2020.3.2 8/42 (110 mins)
+      * 2 Medium
+      * 3 Easy
 * Review Materials in Resume
   * AI Workshop with EM Lyon
     * Deep Learning
@@ -79,15 +81,30 @@ Schedule for every week magister
 
 * Reinforcement Learning based on gym
 * Reinforcement Theories
+  * 2020.3.2 (60 mins)
+    * Q-learning (off-policy)
+    * Sarsa (on-policy)
+    * Sarsa($\lambda$) 
 * SQL Practice
   * [Link](http://www.sql-ex.ru/learn_exercises.php#answer_ref)
-  * 2020.2.29: 10/151 (60 mins)
+  * 2020.3.1: 10/151 (60 mins)
     * UNION
     * INTERSECT
     * EXCEPT
-  * 2020.3.1: 20/151 (35 mins)
+  * 2020.3.2: 20/151 (35 mins)
     * [use multiply table in query](http://www.sql-tutorial.ru/en/book_using_multiple_tables_in_query.html)
     * [SOME/ANY/ALL](http://www.sql-tutorial.ru/en/book_using_any_all_keywords_with_comparison_predicates.html)
+    * Give up, the website is really hard to use
+    * Change to [here](https://sqlzoo.net/wiki/SQL_Tutorial)
+  * 2020.3.3 (40 mins)
+    * [Finish select basics](https://sqlzoo.net/wiki/SELECT_basics)
+      * [Quiz 7/7](https://sqlzoo.net/wiki/SELECT_Quiz)
+    * [Finish select from world](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)
+      * ROUND
+      * LEFT
+      * [BBC QUIZ 7/7](https://sqlzoo.net/wiki/BBC_QUIZ)
+      * [Card game](https://sqlzoo.net/40289347/)
+      * [SELECT from Nobel Tutorial](https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial)
 
 ## Week 4 2020 2.21 - 2.27
 
