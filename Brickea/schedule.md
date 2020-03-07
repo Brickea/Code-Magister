@@ -85,6 +85,16 @@ Schedule for every week magister
     * Q-learning (off-policy)
     * Sarsa (on-policy)
     * Sarsa($\lambda$) 
+* Neural Network (120 min)
+  * Tensorflow基础架构
+  * 神经网络构建
+  * 结果可视化
+* 2020.3.7 Keras 基础 (120 mins)
+  * Regression
+  * Classification
+    * one - hot enode
+    * normalization - scaling
+    * optimizer
 * SQL Practice
   * [Link](http://www.sql-ex.ru/learn_exercises.php#answer_ref)
   * 2020.3.1: 10/151 (60 mins)
@@ -105,6 +115,10 @@ Schedule for every week magister
       * [BBC QUIZ 7/7](https://sqlzoo.net/wiki/BBC_QUIZ)
       * [Card game](https://sqlzoo.net/40289347/)
       * [SELECT from Nobel Tutorial](https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial)
+  * 2020 3.5 (30min)
+    * SELECT within SELECT Tutorial
+    * nested select
+    * CONCAT
 
 ## Week 4 2020 2.21 - 2.27
 
