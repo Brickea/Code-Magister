@@ -2,9 +2,10 @@
 
 - [Brickea](#brickea)
   - [Skill Tree (Last update 2020.2.29)](#skill-tree-last-update-2020229)
+  - [Week 6 2020 3.8 - 3.15 Google Kaggle Compitation](#week-6-2020-38---315-google-kaggle-compitation)
+    - [Goal -  Google Kaggle Compitation](#goal---google-kaggle-compitation)
   - [Week 5 2020 2.29 - 3.7](#week-5-2020-229---37)
     - [Interview Preparation](#interview-preparation)
-    - [Data Analyst Related](#data-analyst-related)
     - [Assignment and Exam Preparation](#assignment-and-exam-preparation)
   - [Week 4 2020 2.21 - 2.27](#week-4-2020-221---227)
     - [Statistical Learning](#statistical-learning)
@@ -44,6 +45,15 @@ Schedule for every week magister
 
 ![](res/Skill&#32;Tree.png)
 
+## Week 6 2020 3.8 - 3.15 Google Kaggle Compitation
+
+### Goal -  Google Kaggle Compitation
+
+* 2020.3.8 Numpy, Pandas, Matplotlib
+* 2020.3.9 - 2020.3.11 Reinforcement learning, Sklearn, Tensorflow
+  * 3.9 DQN + Assignment 2 fill in with questions
+* 2020.3.12 - 2020.3.15 Implement the problem
+
 ## Week 5 2020 2.29 - 3.7
 
 ### Interview Preparation
@@ -54,8 +64,8 @@ Schedule for every week magister
     * 2020.2.29 2/42 (60 mins)
     * 2020.3.1 3/42 (60 mins)
     * 2020.3.2 8/42 (110 mins)
-      * 2 Medium
-      * 3 Easy
+    * 2020.3.4 12/42 (60 mins)
+    * 2020.3.5 15/42 (60 mins)
 * Review Materials in Resume
   * AI Workshop with EM Lyon
     * Deep Learning
@@ -68,14 +78,6 @@ Schedule for every week magister
     * A* Algorithm
     * Database Design
     * SQL
-
-### Data Analyst Related
-
-* Current
-
-![](res/DataAnalystPractice.png)
-
-![](res/DataAnalystFullStack.png)
 
 ### Assignment and Exam Preparation
 
