@@ -1,6 +1,3 @@
-<div style="text-align:right;">20200319</div>
-<div style="text-align:right;">拒绝伸手，从我做起</div>
-
 # 清除git已有的记录缓存解决.ignore文件失效的问题
 
 最近更新github项目的时候，发现多了很多```.DS_Store```文件
@@ -55,3 +52,7 @@ Use this option to unstage and remove paths only from the index. Working tree fi
 git add .
 git commit -m ".gitignore update"
 ```
+
+---
+20200319  
+拒绝伸手，从我做起
